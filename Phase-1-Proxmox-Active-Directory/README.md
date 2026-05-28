@@ -95,7 +95,38 @@ Several BIOS settings required adjustment before Proxmox would install correctly
 | No network in Windows | Missing VirtIO network driver | Installed NetKVM driver from VirtIO ISO |
 
 ## Screenshots
-(Add your screenshots here)
+
+### Proxmox Dashboard
+![Proxmox Dashboard](screenshots/proxmox-dashboard.png)
+*Proxmox VE 9.1 web interface showing the homelab node running*
+
+### Proxmox Node Summary
+![Node Summary](screenshots/proxmox-node-summary.png)
+*31GB RAM and 67GB storage confirmed — all available for virtual machines*
+
+### Windows Server VM in Proxmox
+![Windows Server VM](screenshots/windows-server-vm.png)
+*Windows Server 2022 VM created with 2 CPU cores, 4GB RAM, and 60GB storage*
+
+### Windows Server Running
+![Windows Server Console](screenshots/windows-server-lockscreen.png)
+*Windows Server 2022 running inside the Proxmox VM console*
+
+### Server Manager with AD DS and DNS
+![Server Manager](screenshots/server-manager-roles.png)
+*Server Manager confirming Active Directory Domain Services and DNS roles installed and running*
+
+### Active Directory Domain Structure
+![AD Domain](screenshots/ad-users-domain.png)
+*Active Directory Users and Computers showing homelab.local domain*
+
+### IT Department OU
+![IT Department](screenshots/it-department-ou.png)
+*IT Department Organizational Unit containing domain users jsmith and jdoe*
+
+### Password Policy GPO
+![Password Policy](screenshots/password-policy-gpo.png)
+*Group Policy Editor showing configured enterprise password policies*
 
 ## Skills Demonstrated
 - Bare metal server deployment
