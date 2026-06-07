@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Switch System Information
-(screenshots/Screenshot_2026-06-06_194344.png)
+(screenshots/Phase-2 Networking-Wireshark/Phase-2 Networkin-Wireshark/Screenshot 2026-06-06 194344.png)
 *TP-Link TL-SG108E management interface showing device info, MAC address, 
 IP address and firmware version*
 
