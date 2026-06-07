@@ -117,7 +117,7 @@ One of the most important demonstrations in this phase was comparing HTTP and HT
 ## Screenshots
 
 ### Switch System Information
-![Switch System Info](screenshots/Screenshot_2026-06-06_194344.png)
+![Switch System Info](Screenshot_2026-06-06_194344.png)
 *TP-Link TL-SG108E management interface showing device info, MAC address, 
 IP address and firmware version*
 
