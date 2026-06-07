@@ -12,7 +12,7 @@ A physical home lab built from scratch for career development in cybersecurity, 
 | Phase | Topic | Status |
 |---|---|---|
 | 1 | Proxmox Hypervisor + Active Directory | Complete |
-| 2 | Networking + Wireshark Packet Analysis | Upcoming |
+| 2 | Networking + Wireshark Packet Analysis | Complete |
 | 3 | SIEM Deployment with Wazuh | Upcoming |
 | 4 | Firewall Configuration with pfSense | Upcoming |
 | 5 | Penetration Testing with Kali Linux | Upcoming |
